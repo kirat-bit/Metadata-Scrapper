@@ -10,9 +10,9 @@ relevant to EMBL-EBI's Ensembl genome loading pipeline work.
 
 ## What it does
 
-- Searches PubMed for papers matching any query (e.g. "plant genome assembly")
-- Fetches full metadata for each paper (title, authors, journal, date)
-- Scans titles for genome-related keywords (assembly, ploidy, chromosome, etc.)
+- Searches PubMed for papers matching any query 
+- Fetches full metadata for each paper 
+- Scans titles for genome-related keywords 
 - Exports clean structured results to JSON and CSV
 
 ---
@@ -35,26 +35,21 @@ paper-metadata-scraper/
 ## Requirements
 
 - Python 3.10+
-- Internet connection (uses PubMed's free public API — no key needed)
-
 ---
 
 ## Setup
 ```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/paper-metadata-scraper.git
+
+mkdir paper-metadata-scraper
+ 
 cd paper-metadata-scraper
 
-# Create and activate virtual environment
 python -m venv venv
 
-# Windows
 .\venv\Scripts\activate
 
-# Mac/Linux
 source venv/bin/activate
 
-# Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -78,14 +73,14 @@ export_to_csv(parsed)
 "
 ```
 
-This will create two output files in your project folder:
+This will create two output files in the project folder:
 - `output.json` — structured metadata in JSON format
 - `output.csv` — same data in spreadsheet-friendly CSV format
 
 ---
 
 ## Running tests
-```bash
+
 pytest tests/ -v
 ```
 
