@@ -1,7 +1,7 @@
 # paper-metadata-scraper
 
 A Python tool that searches PubMed's free API for biology research papers
-and extracts structured genome-related metadata — saving results to JSON and CSV.
+and extracts structured genome-related metadata saving results to JSON and CSV.
 
 Built as a demonstration of AI-assisted metadata extraction concepts,
 relevant to EMBL-EBI's Ensembl genome loading pipeline work.
