@@ -1,0 +1,98 @@
+[
+    {
+        "pubmed_id": "41793357",
+        "title": "One-Step Multi-fragment Assembly and Targeted Genomic Integration in Corynebacterium glutamicum.",
+        "authors": [
+            "Wang X",
+            "Yang S",
+            "Zhou X",
+            "Zhu J",
+            "Qian F",
+            "Jiang Y",
+            "Yang S"
+        ],
+        "journal": "ACS synthetic biology",
+        "pub_date": "2026 Mar 7",
+        "keywords_found": [
+            "assembly"
+        ]
+    },
+    {
+        "pubmed_id": "41792214",
+        "title": "High quality chromosome-level genome assembly of Psammosilene tunicoides (Caryophyllaceae), an endangered medicinal plant.",
+        "authors": [
+            "Xie Z",
+            "Zhang Y",
+            "Yang C",
+            "Zhang T",
+            "Zhang A",
+            "Li G"
+        ],
+        "journal": "Scientific data",
+        "pub_date": "2026 Mar 6",
+        "keywords_found": [
+            "genome",
+            "assembly",
+            "chromosome"
+        ]
+    },
+    {
+        "pubmed_id": "41792149",
+        "title": "Chromosome-level genome assembly of Neoseiulus longispinosus (Phytoseiidae).",
+        "authors": [
+            "Han ZR",
+            "Zheng LJ",
+            "Liang L",
+            "Ye ZP",
+            "Fu YG",
+            "Yi TC",
+            "Chen JY"
+        ],
+        "journal": "Scientific data",
+        "pub_date": "2026 Mar 6",
+        "keywords_found": [
+            "genome",
+            "assembly",
+            "chromosome"
+        ]
+    },
+    {
+        "pubmed_id": "41784355",
+        "title": "Unraveling the genome of Epidendrum fulgens: demographic history and gene family dynamics in a resilient Neotropical orchid.",
+        "authors": [
+            "de Mattos JS",
+            "Aecyo P",
+            "Keepers K",
+            "Tavares MM",
+            "Della-Rosa F",
+            "Palma-Silva C",
+            "Kane NC",
+            "Pinheiro F",
+            "Riaño-Pachon DM"
+        ],
+        "journal": "Genome biology and evolution",
+        "pub_date": "2026 Mar 5",
+        "keywords_found": [
+            "genome"
+        ]
+    },
+    {
+        "pubmed_id": "41782323",
+        "title": "First genome and transcription factor profile for Asimina triloba, a native North American fruit tree.",
+        "authors": [
+            "Yulfo-Soto GE",
+            "Toth H",
+            "Francino SE",
+            "Leung J",
+            "Meinhardt LW",
+            "Davies GM",
+            "Jacobs JM",
+            "Cohen SP"
+        ],
+        "journal": "The plant genome",
+        "pub_date": "2026 Mar",
+        "keywords_found": [
+            "genome"
+        ]
+    }
+]
