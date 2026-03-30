@@ -3,6 +3,8 @@
 A Python tool that searches PubMed's free API for biology research papers
 and extracts structured genome-related metadata saving results to JSON and CSV.
 
+This repo is the predecessor to the EuropePMC-based paper fetcher proposed in GSoC 2026 Project.
+
 Built as a demonstration of AI-assisted metadata extraction concepts,
 relevant to EMBL-EBI's Ensembl genome loading pipeline work.
 
